@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=3000&pause=1000&color=2B42FFC0&center=true&vCenter=true&width=435&lines=Hi+I'm+Bugzin;Founder+of+Loaden+TI;Building+CLT+%26+SciLib;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=3000&pause=1000&color=2B42FFC0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Bugzin;Founder+of+Loaden+TI;Building+CLT+%26+SciLib;Native+HTML+•+CSS+•+JavaScript)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Bugzin
 
